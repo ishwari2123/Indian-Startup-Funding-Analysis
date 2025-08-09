@@ -105,12 +105,3 @@ Generated plots include:
 * Top sectors, cities, startups, and investors
 * Popular investment types
 ---
-
-## 📜 License
-
-This project is for educational and analytical purposes. You are free to modify and adapt it for your needs.
-
----
-
-If you want, I can also **add an “Example Plots” section** in the README showing actual images from your script’s output so it looks professional.
-Do you want me to prepare that?
